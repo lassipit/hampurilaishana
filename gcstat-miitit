@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+<title>lassipit miittiaukot</title>
+<meta charset="UTF-8">
+    <body>
+    <a href="https://lassidadi.github.io/hampurilaishana/gcstat">https://lassidadi.github.io/hampurilaishana/gcstat</a></br>
+    <img src="https://www.geocache.fi/stat/year.php?la=&userid=220000&cachetype=5" border=0>
+    <img src="https://www.geocache.fi/stat/year.php?la=&userid=220000&cachetype=10" border=0>
+    <img src="https://www.geocache.fi/stat/year.php?la=&userid=220000&cachetype=11" border=0>
+    <img src="https://www.geocache.fi/stat/year.php?la=&userid=220000&cachetype=12" border=0>
+    <img src="https://www.geocache.fi/stat/year.php?la=&userid=220000&cachetype=13" border=0>
+    <img src="https://www.geocache.fi/stat/year.php?la=&userid=220000&cachetype=99" border=0>
+	    <!1=Tradi 2=Multi 3=Mysse 4=Letter 5=Miitti 6=Earth 7=Virtual 8=Webcam 9=Wherigo>
+	    <!10=Celebr.event 11=Mega 12=CITO 13=Giga 20=Lab>
+	    <!98=Muut paitsi tradit 99=Kaikki event-tyypit>
+    </body>
+</html>
